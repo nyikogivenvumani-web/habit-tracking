@@ -1,0 +1,30 @@
+body {
+    background-color: #d2bba3;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    padding: 0 0 80px;
+    text-align: center;
+}
+
+.hForm {
+    background-color:#4f3e35 ;
+    border: 2px soild black;
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hForm h2 {
+    color: #f0e5d8;
+    margin-bottom: 20px;
+}
+.hForm input, .hForm select {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
